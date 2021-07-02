@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginAndSignUP</string>
+    <string name="password_minimum_6_characters">Password (minimum 6 characters)</string>
+    <string name="jane_cooper">Jane Cooper</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="create_account">Create Account</string>
+    <string name="googlelogo">googlelogo</string>
+    <string name="facebooklogo">Facebooklogo</string>
+    <string name="alma_lawson_example_com">alma.lawson@example.com</string>
+</resources>
